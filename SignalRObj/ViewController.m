@@ -27,7 +27,7 @@
     [hubConnection setStarted:^{
         NSLog(@"Connection Started");
      
-            
+            ////Vikas test
         
     }];
     [hubConnection setReceived:^(NSString *message) {
