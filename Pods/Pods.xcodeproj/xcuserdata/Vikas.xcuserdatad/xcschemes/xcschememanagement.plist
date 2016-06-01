@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SignalRObj.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SignalR-ObjC.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SocketRocket.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>12E4FFA423306281732D33DAF52F46F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6E5355CAC7D56B9EB225E90289034AF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7ECC0EE727B7BA711ED67080F8A5A050</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC760B5E628E1C0C6567A8075D137A70</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

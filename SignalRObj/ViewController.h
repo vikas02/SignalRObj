@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "SignalR.h"
 @interface ViewController : UIViewController
-
+{
+    SRHubProxy *chat;
+}
 
 @end
 
